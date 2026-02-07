@@ -141,15 +141,12 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 ### 🧩 Algorithm
 
 <div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800)](https://solved.ac/profile/khp9800)
-
-</div>
-
-<div align="center">
-
-[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark)](https://solved.ac/profile/khp9800)
-
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
+  </a>
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
+  </a>
 </div>
 
 ---
