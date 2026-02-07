@@ -63,12 +63,12 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyeonghwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghwi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyeonghwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyeonghwi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyeonghwi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kyeonghwi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -143,6 +143,12 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800)](https://solved.ac/profile/khp9800)
+
+</div>
+
+<div align="center">
+
+[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark)](https://solved.ac/profile/khp9800)
 
 </div>
 
