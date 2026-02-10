@@ -71,6 +71,10 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
   <img src="https://streak-stats.demolab.com/?user=kyeonghwi&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="space-shooter.gif" alt="GitHub Contribution Space Shooter" />
+</div>
+
 ---
 
 ### 🏆 Projects
