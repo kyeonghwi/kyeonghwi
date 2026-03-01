@@ -1,7 +1,10 @@
-<!-- Header -->
+<!-- Header Wave -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Park%20Kyeonghwi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=22)
+
+<!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hexagonal+Architecture+%7C+Backend+Developer;Fail-Open+Caching+%7C+OCR+Pipeline;Building+Scalable+%26+Available+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,11 +14,22 @@
 
 **백엔드 개발자 박경휘**입니다.
 
-CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR 기반 검증 시스템 구현 경험이 있습니다.
-복잡한 문제를 단순화하고, 성능을 개선하는 데 집중합니다.
+헥사고날 멀티모듈 아키텍처 설계, Fail-Open 캐싱 전략, PaddleOCR 기반 검증 시스템 구현 경험이 있습니다.
+복잡한 문제를 단순화하고, 가용성을 유지하면서 성능을 개선하는 데 집중합니다.
 
-- 🎓 한성대학교 컴퓨터공학과
-- 📚 KOSTA Java기반 DevOps 개발자 양성과정 수료
+```yaml
+name: Park Kyeonghwi (박경휘)
+role: Backend Developer
+education: 한성대학교 컴퓨터공학과
+bootcamp: KOSTA Java/DevOps 개발자 양성과정
+focus:
+  - Hexagonal Architecture (13 멀티모듈)
+  - Fail-Open Caching (Caffeine L1 + Redis L2)
+  - OCR Pipeline (PaddleOCR + Jaro-Winkler)
+  - Rate Limiting (Redis 토큰버킷)
+available_for: [collaboration, new_opportunities]
+```
+
 - 📝 [Tech Blog](https://velog.io/@khp9800)에 학습 내용을 기록합니다
 - 🌐 [Portfolio](https://portfolio-kyeonghwis-projects.vercel.app)
 
@@ -25,33 +39,26 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark)](https://skillicons.dev)
+
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 **DevOps & Infra**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark)](https://skillicons.dev)
+
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark)](https://skillicons.dev)
 
 **Monitoring**
 
@@ -69,6 +76,14 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kyeonghwi&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyeonghwi&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kyeonghwi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 <div align="center">
@@ -90,18 +105,23 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
         <a href="https://github.com/sw-campus">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
+        <a href="https://portfolio-kyeonghwis-projects.vercel.app">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
       </p>
       <ul>
-        <li>CQRS 멀티모듈 아키텍처 설계</li>
-        <li>Redis 캐싱으로 API 응답 70% 개선</li>
-        <li>OCR 인증서 검증 정확도 95%+</li>
-        <li>K8s 클러스터 배포 (EKS + ArgoCD)</li>
+        <li>13개 멀티모듈 헥사고날 아키텍처 설계</li>
+        <li>Caffeine(L1)+Redis(L2) 이중 캐싱 + Fail-Open</li>
+        <li>4단계 OCR 수료증 검증 — 정확도 70% → 95%+</li>
+        <li>@RateLimited 커스텀 어노테이션 (Redis 토큰버킷)</li>
+        <li>API 응답 800ms → 240ms (70% 개선)</li>
       </ul>
     </td>
     <td width="50%">
@@ -113,6 +133,9 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
         <a href="https://github.com/305forproject/oneday_be">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
+        <a href="https://portfolio-kyeonghwis-projects.vercel.app">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -121,10 +144,11 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <ul>
-        <li>JSP/Servlet → Spring Boot + React 리팩토링</li>
-        <li>토스페이먼츠 결제 연동</li>
-        <li>코드 중복 60% 감소</li>
-        <li>기능 개발 속도 2배 향상</li>
+        <li>[Legacy → Refactoring] JSP/Servlet → Spring Boot + React</li>
+        <li>existsBy+countBy 이중 검증으로 동시 예약 중복 차단</li>
+        <li>4단계 예약 상태 머신 (PENDING→CANCELLED)</li>
+        <li>JWT access/refresh 분리 (서버 저장, 즉시 무효화)</li>
+        <li>토스페이먼츠 결제 + FullCalendar 예약 UI</li>
       </ul>
     </td>
   </tr>
@@ -167,8 +191,11 @@ CQRS 멀티모듈 아키텍처 설계, Kubernetes 클러스터 배포, PaddleOCR
 
 ---
 
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=kyeonghwi&color=3178C6&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=kyeonghwi&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
