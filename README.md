@@ -1,15 +1,17 @@
 <!-- Header Wave -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Park%20Kyeonghwi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=22)
 
-<!-- Typing SVG -->
+<!-- Typing SVG
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hexagonal+Architecture+%7C+Backend+Developer;Fail-Open+Caching+%7C+OCR+Pipeline;Building+Scalable+%26+Available+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+-->
 
 ---
 
+<!-- About Me
 ### 👋 About Me
 
 **백엔드 개발자 박경휘**입니다.
@@ -34,6 +36,7 @@ available_for: [collaboration, new_opportunities]
 - 🌐 [Portfolio](https://portfolio-kyeonghwis-projects.vercel.app)
 
 ---
+-->
 
 ### 🛠 Tech Stack
 
@@ -92,6 +95,44 @@ available_for: [collaboration, new_opportunities]
 
 ---
 
+### 📜 Certifications
+
+| 자격증 | 발급기관 | 취득일 |
+|--------|---------|--------|
+| 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.12 |
+| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025.06 |
+| 정보처리기사 | 한국산업인력공단 | 2024.09 |
+
+---
+
+### 🧩 Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
+  </a>
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
+  </a>
+</div>
+
+---
+
+<!-- Contact
+### 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyeonghwi@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@khp9800)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kyeonghwis-projects.vercel.app)
+
+</div>
+
+---
+-->
+
+<!-- Projects
 ### 🏆 Projects
 
 <table>
@@ -155,41 +196,7 @@ available_for: [collaboration, new_opportunities]
 </table>
 
 ---
-
-### 📜 Certifications
-
-| 자격증 | 발급기관 | 취득일 |
-|--------|---------|--------|
-| 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.12 |
-| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025.06 |
-| 정보처리기사 | 한국산업인력공단 | 2024.09 |
-
----
-
-### 🧩 Algorithm
-
-<div align="center">
-  <a href="https://solved.ac/profile/khp9800">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
-  </a>
-  <a href="https://solved.ac/profile/khp9800">
-    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
-  </a>
-</div>
-
----
-
-### 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyeonghwi@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@khp9800)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kyeonghwis-projects.vercel.app)
-
-</div>
-
----
+-->
 
 <!-- Footer Wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
