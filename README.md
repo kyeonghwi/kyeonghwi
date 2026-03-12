@@ -80,16 +80,6 @@ available_for: [collaboration, new_opportunities]
 
 ---
 
-### 📜 Certifications
-
-| 자격증 | 발급기관 | 취득일 |
-|--------|---------|--------|
-| 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.12 |
-| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025.06 |
-| 정보처리기사 | 한국산업인력공단 | 2024.09 |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -112,6 +102,16 @@ available_for: [collaboration, new_opportunities]
 <div align="center">
   <img src="space-shooter.gif" alt="GitHub Contribution Space Shooter" />
 </div>
+
+---
+
+### 📜 Certifications
+
+| 자격증 | 발급기관 | 취득일 |
+|--------|---------|--------|
+| 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.12 |
+| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025.06 |
+| 정보처리기사 | 한국산업인력공단 | 2024.09 |
 
 ---
 
