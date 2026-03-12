@@ -76,9 +76,6 @@ available_for: [collaboration, new_opportunities]
   <a href="https://solved.ac/profile/khp9800">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
   </a>
-  <a href="https://solved.ac/profile/khp9800">
-    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
-  </a>
 </div>
 
 ---
