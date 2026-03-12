@@ -70,27 +70,15 @@ available_for: [collaboration, new_opportunities]
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Algorithm
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyeonghwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyeonghwi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kyeonghwi&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyeonghwi&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyeonghwi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-<div align="center">
-  <img src="space-shooter.gif" alt="GitHub Contribution Space Shooter" />
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
+  </a>
+  <a href="https://solved.ac/profile/khp9800">
+    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
+  </a>
 </div>
 
 ---
@@ -105,15 +93,23 @@ available_for: [collaboration, new_opportunities]
 
 ---
 
-### 🧩 Algorithm
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://solved.ac/profile/khp9800">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khp9800" height="170" />
-  </a>
-  <a href="https://solved.ac/profile/khp9800">
-    <img src="http://mazandi.herokuapp.com/api?handle=khp9800&theme=dark" height="170" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyeonghwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyeonghwi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyeonghwi&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kyeonghwi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+<div align="center">
+  <img src="space-shooter.gif" alt="GitHub Contribution Space Shooter" />
 </div>
 
 ---
