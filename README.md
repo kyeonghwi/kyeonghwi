@@ -44,7 +44,7 @@ available_for: [collaboration, new_opportunities]
   <tr>
     <td align="center" width="50%">
       <b>Backend</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" /></a><br>
       <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
       <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -57,15 +57,11 @@ available_for: [collaboration, new_opportunities]
   <tr>
     <td align="center">
       <b>DevOps & Infra</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" /></a><br>
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" /></a>
     </td>
     <td align="center">
-      <b>Database & Monitoring</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark" /></a><br>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      <b>Database</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark" /></a>
     </td>
   </tr>
 </table>
