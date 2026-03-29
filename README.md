@@ -44,9 +44,8 @@ available_for: [collaboration, new_opportunities]
   <tr>
     <td align="center" width="50%">
       <b>Backend</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" /></a><br>
-      <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-      <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge" />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" /></a><br>
+      <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <b>Frontend</b><br><br>
